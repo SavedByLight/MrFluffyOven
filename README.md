@@ -11,7 +11,11 @@
 - 📱My Devices
   
   Main Phone = Galaxy A55 5G (SM-A556B)
+
   Secondary Phone = Galaxy A05s (SM-A057G)
+
   Backup Phone = Galaxy A12 Nacho (SM-A127F)
+
   Main Tablet = Galaxy Tab A9+ (SM-X210)
+
   Other = Galaxy A20e (SM-A202F)
